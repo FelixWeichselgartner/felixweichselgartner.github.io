@@ -5,7 +5,7 @@ image: /assets/thumbnails/QuadrocopterThumbnail.png
 
 [GitHub-Repository](https://github.com/FelixWeichselgartner/Drone-Quadrocopter)
 
-In this project I tried to use my knowledge I acquired in my 4th semester in Automatic Control Engineering I, Circuit Technology and Microcomputer Technology. This project is not supposed to be as a real quadracopter and should just be a testbench for the Arduino framework I developed.
+In this project I tried to use my knowledge I acquired in my 4th semester in Automatic Control Engineering I, Circuit Technology and Microcomputer Technology. This project is not supposed to be as a real quadrocopter and should just be a testbench for the Arduino framework I developed.
 
 Here are the schematics of the quadrocopter and the remote:
 

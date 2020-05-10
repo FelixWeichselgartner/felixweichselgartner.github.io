@@ -5,7 +5,7 @@ title: Felix Weichselgartner
 
 ## Who I am
 
-Servus! My name is Felix Weichselgartner and I'm an Electrical and Information Engineering student from Lower Bavaria in Germany. Beside my study at the [Landshut University of Applied Sciences](https://www.haw-landshut.de/) and working as a software engineer for [Jungheinrich AG](https://www.jungheinrich.de/) in the department of automated guided vehicles. In my spare time I like to program and do different electrical projects. However, I also enjoy playing video games, skiing and reading.
+Servus! My name is Felix Weichselgartner and I'm an Electrical and Information Engineering student from Lower Bavaria in Germany. Beside my study at the [Landshut University of Applied Sciences](https://www.haw-landshut.de/) I'm working as a software engineer for [Jungheinrich AG](https://www.jungheinrich.de/) in the department of automated guided vehicles. In my spare time I like to program and do different electrical projects. However, I also enjoy playing video games, skiing and reading.
 
 ## Curriculum Vitae
 
@@ -45,6 +45,7 @@ Current highest graduation: Fachhochschulreife
   * Java
   * Linux
   * CMake
+  * Wordpress
 * Electronics
   * Arduino, RPi
   * Configuring and building PCs
