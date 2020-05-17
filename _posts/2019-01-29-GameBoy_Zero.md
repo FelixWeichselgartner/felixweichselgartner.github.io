@@ -3,6 +3,16 @@ title: GameBoy Zero
 image: /assets/thumbnails/GameBoyZeroThumbnail.png
 ---
 
+This project was based on these guides:
+
+[Guide No. 1](https://sudomod.com/game-boy-zero-custom-parts-guide-part-1/)
+
+[Guide No. 2](https://sudomod.com/game-boy-zero-custom-parts-guide-part-2/)
+
+I discovered this popular project in my third semester and this basically got me interested in electronics.
+
+The rest is in German as this was part of my first website.
+
 ## Teile:
 
 Das Gehäuse des GameBoy Classic:

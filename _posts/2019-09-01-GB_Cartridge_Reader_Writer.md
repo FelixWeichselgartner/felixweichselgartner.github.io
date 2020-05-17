@@ -7,6 +7,26 @@ image: /assets/thumbnails/GameBoyCartridgeReaderThumbnail.png
 
 The project is based on this [tutorial](https://www.insidegadgets.com/2011/03/19/gbcartread-arduino-based-gameboy-cart-reader-%E2%80%93-part-1-read-the-rom/) from insideGadgets.
 
+After drawing my schematics in [Eagle](https://www.autodesk.de/products/eagle/overview), I etched my PCB like shown in these videos:
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/YJgX9Na4rWw">
+</iframe>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/6uInan-TjiA">
+</iframe>
+
+My PCB before etching looked like this: 
+
+![](/assets/img/CartridgeReader_pre_etching.jpg)
+
+This is after etching:
+
+![](/assets/img/CartridgeReader_raw_top.jpg)
+
+![](/assets/img/CartridgeReader_raw_bottom.jpg)
+
 This is the top side of my circuit board:
 
 ![](/assets/img/CartridgeReader_top.jpg)

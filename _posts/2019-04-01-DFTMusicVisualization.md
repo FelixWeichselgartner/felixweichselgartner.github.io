@@ -7,6 +7,12 @@ image: /assets/thumbnails/DFTMusicVisualizationThumbnail.png
 
 This project is a music visualization with discrete fourier transformation on four rgb-led-matrices.
 
+This project was inspired by this project:
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/7ooDWzGQQC8">
+</iframe>
+
 Here is a GIF of my result:
 
 ![GIF from GitHub Readme](https://raw.githubusercontent.com/FelixWeichselgartner/DFTMusicVisualization/master/resources/MyOutput.gif)
