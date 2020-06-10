@@ -8,20 +8,18 @@
 
       <div class="col-sm">
         <ul class="list-unstyled">
-          <li>
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-          </li>
-          {%- if site.email -%}
-            <li>
-              <a href="mailto:{{ site.email }}">
-                {{ site.email }}
-              </a>
-            </li>
+          {%- if site.author -%}
+            {{ site.author | escape }}
+          {%- else -%}
+            {{ site.title | escape }}
           {%- endif -%}
+          &nbsp;
+          {%- if site.email -%}
+          <a href="mailto:{{ site.email }}"><img src="https://img.icons8.com/cotton/64/000000/new-message.png" height="16px" alt="E-Mail"></a>&nbsp;
+          {%- endif -%}
+          <a href="{{ site.link_github }}"><img src="/assets/logo/GitHub-Mark-120px-plus.png" height="16px" alt="GitHub"></a> 
+          <a href="{{ site.link_linkedin }}"><img src="/assets/logo/logo_linkedin.png" height="16px" alt="LinkedIn"></a>
+          <a href="{{ site.link_xing }}"><img src="/assets/logo/logo_xing.png" height="16px" alt="Xing"></a>
         </ul>
       </div>
 
