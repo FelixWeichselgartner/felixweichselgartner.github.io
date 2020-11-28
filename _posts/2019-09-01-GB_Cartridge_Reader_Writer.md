@@ -3,7 +3,7 @@ title: GameBoy Cartridge Reader/Writer
 image: /assets/thumbnails/GameBoyCartridgeReaderThumbnail.png
 ---
 
-[GitHub-Repository](https://github.com/FelixWeichselgartner/GB-Cartridge-Reader-Writer) (currently private)
+[GitHub-Repository](https://github.com/FelixWeichselgartner/GB-Cartridge-Reader-Writer)
 
 The project is based on this [tutorial](https://www.insidegadgets.com/2011/03/19/gbcartread-arduino-based-gameboy-cart-reader-%E2%80%93-part-1-read-the-rom/) from insideGadgets.
 
@@ -40,3 +40,5 @@ With this self-build Arduino Uno shield I dumped my cartridge of Yoshi's Cookie 
 ![](/assets/img/Yoshis_Cookie.bmp)
 
 However, so far I was not able to dump games with MBC5 (like the Pokémon games).
+
+To see how I solved this problem, jump the [second part](https://felixweichselgartner.github.io/2020/11/28/GB_Cartridge_Reader_Writer_continued.html)
