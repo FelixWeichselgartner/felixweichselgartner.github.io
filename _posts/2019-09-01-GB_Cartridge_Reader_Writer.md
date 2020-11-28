@@ -17,6 +17,14 @@ src="https://www.youtube.com/embed/YJgX9Na4rWw">
 src="https://www.youtube.com/embed/6uInan-TjiA">
 </iframe>
 
+The schematic:
+
+![schematic](https://raw.githubusercontent.com/FelixWeichselgartner/GB-Cartridge-Reader-Writer/master/prototype/schematic.png)
+
+And the layout:
+
+![layout](https://raw.githubusercontent.com/FelixWeichselgartner/GB-Cartridge-Reader-Writer/master/prototype/layout.png?token=AJ66GXZ4LUZLPHZ6WQAJ2S27YLLKW)
+
 My PCB before etching looked like this: 
 
 ![](/assets/img/CartridgeReader_pre_etching.jpg)
