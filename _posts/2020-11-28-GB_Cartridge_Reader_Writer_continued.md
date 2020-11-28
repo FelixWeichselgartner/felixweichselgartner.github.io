@@ -19,7 +19,7 @@ With help of this cartridge I was able to create a test bench, by connecting mos
 
 A simple debug script for the Arduino Uno with the CartridgeShield set all pins to high and low and the Mega read the pin states and send them via the COM port to the computer. This result in a csv-file that can then be interpreted by the plot functionality of the logic analyzer.
 
-![logic_analyer](/assets/img/GameboyReader_LogicAnalyzer.png)
+![logic_analyer](/assets/img/CartridgeReader_LogicAnalyzer.png)
 
 With this test bench, I was able to detect a missing connection between R26 and the 10K resistor. This basically mean that the WR-pin wasn't connected.
 
