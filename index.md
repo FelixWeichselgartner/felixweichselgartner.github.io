@@ -39,7 +39,7 @@ Highest graduation: B.Eng. Electrical and Informations Engineering
 
 ## Competencies
 
-TOOLS: Visual Studio Code <img alt="Visual Studio Code" width="26px" src="assets/logo/vscode.png" />, PyCharm <img alt="PyCharm" width="26px" src="assets/logo/pycharm.png" />, git <img alt="git" width="26px" src="assets/logo/git.png" />, GitHub <img alt="GitHub" width="26px" src="assets/logo/GitHub.png" />, Docker <img alt="Docker" width="26px" src="assets/logo/docker.png" />, CMake <img alt="CMake" width="26px" src="assets/logo/Cmake.png" />, Linux, Grafana <img alt="Grafana" width="26px" src="assets/logo/Grafana.png" />, Unity3D <img alt="Unity3D" width="26px" src="assets/logo/Unity3D.png" />
+TOOLS: Visual Studio Code <img alt="Visual Studio Code" width="26px" src="assets/logo/vscode.png" />, PyCharm <img alt="PyCharm" width="26px" src="assets/logo/pycharm.png" />, git <img alt="git" width="26px" src="assets/logo/git.png" />, GitHub <img alt="GitHub" width="26px" src="assets/logo/GitHub.png" />, Docker <img alt="Docker" width="26px" src="assets/logo/docker.png" />, CMake <img alt="CMake" width="26px" src="assets/logo/Cmake.png" />, Linux, Grafana <img alt="Grafana" width="26px" src="assets/logo/Grafana.png" />
 
 LOW LEVEL: C <img alt="C" width="26px" src="assets/logo/C.png" />, C++ <img alt="C++" width="26px" src="assets/logo/C++.png" />, CPU (Assembly) Emulation
 
@@ -49,7 +49,7 @@ WEB-DEV: Django <img alt="Django" width="26px" src="assets/logo/django.png" />, 
 
 ELECTRONICS: Raspberry Pi <img alt="Raspberry Pi" width="26px" src="assets/logo/RPi.png" />, Arduino <img alt="Arduino" width="26px" src="assets/logo/Arduino.png" />, Eagle <img alt="Eagle" width="26px" src="assets/logo/Eagle.png" />, VHDL
 
-SOFTWARE: Office <img alt="Office" width="26px" src="assets/logo/Office.png" />, Word <img alt="Word" width="26px" src="assets/logo/Word.png" />, PowerPoint <img alt="PowerPoint" width="26px" src="assets/logo/PowerPoint.png" />, Excel <img alt="Excel" width="26px" src="assets/logo/Excel.png" />, Allplan <img alt="Allplan" width="26px" src="assets/logo/Allplan.png" />, Wordpress <img alt="Wordpress" width="26px" src="assets/logo/Wordpress.png" />
+SOFTWARE: Office <img alt="Office" width="26px" src="assets/logo/Office.png" />, Word <img alt="Word" width="26px" src="assets/logo/Word.png" />, PowerPoint <img alt="PowerPoint" width="26px" src="assets/logo/PowerPoint.png" />, Excel <img alt="Excel" width="26px" src="assets/logo/Excel.png" />, Allplan <img alt="Allplan" width="26px" src="assets/logo/Allplan.png" />, Wordpress <img alt="Wordpress" width="26px" src="assets/logo/Wordpress.png" />, Unity3D <img alt="Unity3D" width="26px" src="assets/logo/Unity3D.png" />, LaTeX <img alt="LaTeX" width="26px" src="assets/logo/LaTeX.png" />
 
 LANGUAGES: Native German <img alt="German" width="26px" src="assets/logo/FlagDE.png" />, 4 courses UNIcert III English
 
