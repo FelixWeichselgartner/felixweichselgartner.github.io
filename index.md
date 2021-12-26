@@ -5,37 +5,39 @@ title: Felix Weichselgartner
 
 ## Who I am
 
-Servus! My name is Felix Weichselgartner and I'm an Electrical Engineering student from Lower Bavaria in Germany. Beside my study at the [Landshut University of Applied Sciences](https://www.haw-landshut.de/) I'm working as a software engineer for the [Jungheinrich AG](https://www.jungheinrich.de/) in the department of software for automated guided vehicles. In my spare time I like to program and do different electrical projects. However, I also enjoy playing video games, skiing and reading.
-
+<table>
+  <tr>
+    <td> Servus! My name is Felix Weichselgartner and I'm an Electrical Engineering student from Lower Bavaria in Germany. Beside my study at the <a href="https://www.haw-landshut.de/">Landshut University of Applied Sciences</a> I'm working as a software engineer for the <a href="https://www.jungheinrich.de/">Jungheinrich AG</a> in the department of software for automated guided vehicles. In my spare time I like to program and do different electrical projects. However, I also enjoy playing video games, skiing and reading. </th>
+    <td> <img src="assets/img/Felix.jpg" alt="felix" width="500"> </th>
+  </tr>
+</table>
 
 
 ## Curriculum Vitae
 
 ### Education
 
-Highest graduation: B.Eng. Electrical Engineering and Information Technology
-
 | Time period       | University                                    | Degree                                                                         | Final Grade          |
 |-------------------|-----------------------------------------------|--------------------------------------------------------------------------------|----------------------|
 | 2017/10 – 2021/02 | [Landshut UAS¹](https://www.haw-landshut.de/) | Bachelor of Engineering <br> Electrical Engineering and Information Technology | mit Auszeichnung 1,1 |
 | 2020/10 – today   | [Landshut UAS¹](https://www.haw-landshut.de/) | Master of Engineering <br> Electrical Engineering                              |                      |
 
+<br>
+
 ### Working experience
 
-| Time period       | Employer                                                                | Job title                         |
-|-------------------|-------------------------------------------------------------------------|-----------------------------------|
-| 2016/07           | [Ingenieurbüro Greif](http://ib-greif.de/index.htm)                     | Intern                            |
-| 2018/08           | [bbs-project AG](https://cargocollective.com/bbsproject)                | Intern                            |
-| 2018/10 - 2019/02 | [Landshut UAS¹](https://www.haw-landshut.de/)                           | Tutor for EE² I                   |
-| 2019/03 - 2019/07 | [Landshut UAS¹](https://www.haw-landshut.de/)                           | Tutor for EE² II                  |
-| 2019/09 - 2019/12 | [Jungheinrich Moosburg AG & Co. KG](https://www.jungheinrich.de/)       | Intern practical semester - AGV³  |
-| 2020/01 - today   | [Jungheinrich Moosburg AG & Co. KG](https://www.jungheinrich.de/)       | dual study program student - AGV³ |
+| Time period       | Employer                                                 | Job title                            |
+|-------------------|----------------------------------------------------------|--------------------------------------|
+| 2016/07           | [Ingenieurbüro Greif](http://ib-greif.de/index.htm)      | Intern                               |
+| 2018/08           | [bbs-project AG](https://cargocollective.com/bbsproject) | Intern                               |
+| 2018/10 - 2019/02 | [Landshut UAS¹](https://www.haw-landshut.de/)            | Tutor for EE² I                      |
+| 2019/03 - 2019/07 | [Landshut UAS¹](https://www.haw-landshut.de/)            | Tutor for EE² II                     |
+| 2019/09 - today   | [Jungheinrich AG](https://www.jungheinrich.de/)          | dual study program student for AGVs³ |
 
 ¹: University of Applied Sciences \
 ²: Electrical Engineering \
 ³: Automated Guided Vehicles
-
-
+<br>
 
 ## Competencies
 
@@ -58,6 +60,6 @@ Raspberry Pi <img alt="Raspberry Pi" width="26px" src="assets/logo/RPi.png" />, 
 Office <img alt="Office" width="26px" src="assets/logo/Office.png" />, Word <img alt="Word" width="26px" src="assets/logo/Word.png" />, PowerPoint <img alt="PowerPoint" width="26px" src="assets/logo/PowerPoint.png" />, Excel <img alt="Excel" width="26px" src="assets/logo/Excel.png" />, Allplan <img alt="Allplan" width="26px" src="assets/logo/Allplan.png" />, Wordpress <img alt="Wordpress" width="26px" src="assets/logo/Wordpress.png" />, Unity3D <img alt="Unity3D" width="26px" src="assets/logo/Unity3D.png" />, LaTeX <img alt="LaTeX" width="26px" src="assets/logo/LaTeX.png" />
 
 **LANGUAGES:** \
-Native German <img alt="German" width="26px" src="assets/logo/FlagDE.png" />, 4 courses UNIcert III English
+Native German <img alt="German" width="26px" src="assets/logo/FlagDE.png" />, UNIcert III certified English
 
 All logos are just for visualization – I do not claim any rights on them
