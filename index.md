@@ -7,8 +7,8 @@ title: Felix Weichselgartner
 
 <table>
   <tr>
-    <td> Servus! My name is Felix Weichselgartner and I'm an Electrical Engineering student from Lower Bavaria in Germany. Beside my study at the <a href="https://www.haw-landshut.de/">Landshut University of Applied Sciences</a> I'm working as a software engineer for the <a href="https://www.jungheinrich.de/">Jungheinrich AG</a> in the department of software for automated guided vehicles. In my spare time I like to program and do different electrical projects. However, I also enjoy playing video games, skiing and reading. </th>
-    <td> <img src="assets/img/Felix.jpg" alt="felix" width="500"> </th>
+    <td> Servus! My name is Felix Weichselgartner and I'm an Electrical Engineering student from Lower Bavaria in Germany. Beside my study at the <a href="https://www.haw-landshut.de/">Landshut University of Applied Sciences</a> I'm working as a software engineer for the <a href="https://www.jungheinrich.de/">Jungheinrich AG</a> in the department of software for automated guided vehicles. In my spare time I like to program and do different electrical projects. However, I also enjoy playing video games, skiing and reading. </td>
+    <td> <img src="assets/img/Felix.jpg" alt="felix" width="500"> </td>
   </tr>
 </table>
 
