@@ -7,7 +7,7 @@ title: Felix Weichselgartner
 
 <table>
   <tr>
-    <td> Servus! My name is Felix Weichselgartner and I'm an Electrical Engineering student from Lower Bavaria in Germany. Beside my study at the <a href="https://www.haw-landshut.de/">Landshut University of Applied Sciences</a> I'm working as a software engineer for the <a href="https://www.jungheinrich.de/">Jungheinrich AG</a> in the department of software for automated guided vehicles. In my spare time I like to program and do different electrical projects. However, I also enjoy playing video games, skiing and reading. </td>
+    <td> Servus! My name is Felix Weichselgartner and I'm an Electrical Engineer from Lower Bavaria in Germany. In my spare time I like to program and do different electrical projects. However, I also enjoy playing video games, skiing and reading. </td>
     <td> <img src="assets/img/Felix.jpg" alt="felix" width="1400"> </td>
   </tr>
 </table>
@@ -18,10 +18,12 @@ title: Felix Weichselgartner
 
 ### Education
 
+I was able to finish Bachelor and Master in only 9 semesters (one semester faster than standard period of study), because I completed my 7th semester of the Bachelor and my 1st semester of the master simultaneously. 
+
 | Time period       | University                                    | Degree                                                                         | Final Grade          |
 |-------------------|-----------------------------------------------|--------------------------------------------------------------------------------|----------------------|
-| 2017/10 – 2021/02 | [Landshut UAS¹](https://www.haw-landshut.de/) | Bachelor of Engineering <br> Electrical Engineering and Information Technology | mit Auszeichnung 1,1 |
-| 2020/10 – today   | [Landshut UAS¹](https://www.haw-landshut.de/) | Master of Engineering <br> Electrical Engineering                              |                      |
+| 2017/10 – 2021/02 | [Landshut UAS¹](https://www.haw-landshut.de/) | Bachelor of Engineering <br> Electrical Engineering and Information Technology | with excellence 1,1 |
+| 2020/10 – 2022/03 | [Landshut UAS¹](https://www.haw-landshut.de/) | Master of Engineering <br> Electrical Engineering                              |                      |
 
 <br>
 
@@ -33,7 +35,7 @@ title: Felix Weichselgartner
 | 2018/08           | [bbs-project AG](https://cargocollective.com/bbsproject) | Intern                               |
 | 2018/10 - 2019/02 | [Landshut UAS¹](https://www.haw-landshut.de/)            | Tutor for EE² I                      |
 | 2019/03 - 2019/07 | [Landshut UAS¹](https://www.haw-landshut.de/)            | Tutor for EE² II                     |
-| 2019/09 - today   | [Jungheinrich AG](https://www.jungheinrich.de/)          | dual study program student for AGVs³ |
+| 2019/09 - 2022/02 | [Jungheinrich AG](https://www.jungheinrich.de/)          | dual study program student for AGVs³ |
 
 ¹: University of Applied Sciences \
 ²: Electrical Engineering \
@@ -44,7 +46,7 @@ title: Felix Weichselgartner
 ## Competencies
 
 **TOOLS:** \
-Visual Studio Code <img alt="Visual Studio Code" width="26px" src="assets/logo/vscode.png" />, PyCharm <img alt="PyCharm" width="26px" src="assets/logo/pycharm.png" />, git <img alt="git" width="26px" src="assets/logo/git.png" />, GitHub <img alt="GitHub" width="26px" src="assets/logo/GitHub.png" />, Docker <img alt="Docker" width="26px" src="assets/logo/docker.png" />, CMake <img alt="CMake" width="26px" src="assets/logo/Cmake.png" />, Linux, Grafana <img alt="Grafana" width="26px" src="assets/logo/Grafana.png" />
+Visual Studio Code <img alt="Visual Studio Code" width="26px" src="assets/logo/vscode.png" />, PyCharm <img alt="PyCharm" width="26px" src="assets/logo/pycharm.png" />, git <img alt="git" width="26px" src="assets/logo/git.png" />, GitHub <img alt="GitHub" width="26px" src="assets/logo/GitHub.png" />, Docker <img alt="Docker" width="26px" src="assets/logo/docker.png" />, CMake <img alt="CMake" width="26px" src="assets/logo/Cmake.png" />, Linux, Grafana <img alt="Grafana" width="26px" src="assets/logo/Grafana.png" />, Microsoft HoloLens 2
 
 **LOW LEVEL:** \
 C <img alt="C" width="26px" src="assets/logo/C.png" />, C++ <img alt="C++" width="26px" src="assets/logo/C++.png" />, CPU (Assembly) Emulation
