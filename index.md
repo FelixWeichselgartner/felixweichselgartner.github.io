@@ -68,6 +68,7 @@ I was able to finish Bachelor and Master in only 9 semesters (one semester faste
   </tr>
 </table>
 
+<br>
 
 <table id="vitae">
   <tr>
@@ -149,7 +150,7 @@ Both my Bachelor and Master Thesis were graded with a 1.0 (best grade possible).
     <td>Bachelor Thesis</td>
   </tr>
   <tr>
-    <td>Visualisierung der Parameter von Fahrerlosen Transportsystemen mittels Mixed Reality <br> Visualization of the parameters of automated guided vehicle systems with Mixed Reality</td>
+    <td>Visualisierung der Parameter von Fahrerlosen Transportsystemen mittels Mixed Reality <br> Translation: Visualization of the parameters of automated guided vehicle systems with Mixed Reality</td>
     <td><a href="https://www.haw-landshut.de/">Landshut UAS¹</a></td>
     <td>09.03.2022 (accessable 5 years later)</td>
     <td>Master Thesis</td>
