@@ -69,6 +69,20 @@ I was able to finish Bachelor and Master in only 9 semesters (one semester faste
 </table>
 
 
+<table id="vitae">
+  <tr>
+    <th>Time period</th>
+    <th>Institution</th>
+    <th>Continued Education</th>
+  </tr>
+  <tr>
+    <td>2022/03 – 2022/08</td>
+    <td><a href="https://gih-bayern.de/energieberatung/wohngebaeude/">GIH Bayern</a></td>
+    <td>Ausbildung zum Energieberater Wohngebäude <br> (Gebäudeenergieberater)</td>
+  </tr>
+</table>
+
+
 <br>
 
 ### Working experience
@@ -119,26 +133,23 @@ I was able to finish Bachelor and Master in only 9 semesters (one semester faste
 
 ### Publications
 
-Both my Bachelor and Master Thesis were graded with a 1.0 (best grade possible).
+Both my Bachelor and Master Thesis were graded with a 1.0 (best grade possible). My Bachelor Thesis won the "[IHK-Preis](https://www.linkedin.com/posts/ihkniederbayern_ihkniederbayern-ihkpreis-beruflichebildung-activity-6956233764968534016-TL1C?utm_source=linkedin_share&utm_medium=member_desktop_web)" (IHK price) for being one of the best theses of the year 2020 in Lower Bavaria.
 
 <table id="vitae">
   <tr>
     <th>Titel</th>
-    <th>Translation</th>
     <th>Publisher</th>
     <th>Publication date</th>
     <th>Type</th>
   </tr>
   <tr>
-    <td>Automatisierte Koordinatensystemkalibrierung von Fahrerlosen Transportfahrzeugen mittels Bilderkennung</td>
-    <td>Automated coordinate system calibration of automated guided vehicles with computer vision</td>
+    <td>Automatisierte Koordinatensystemkalibrierung von Fahrerlosen Transportfahrzeugen mittels Bilderkennung <br> Translation: Automated coordinate system calibration of automated guided vehicles with computer vision</td>
     <td><a href="https://www.haw-landshut.de/">Landshut UAS¹</a></td>
     <td>17.07.2020 (accessable 5 years later)</td>
     <td>Bachelor Thesis</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Visualisierung der Parameter von Fahrerlosen Transportsystemen mittels Mixed Reality <br> Visualization of the parameters of automated guided vehicle systems with Mixed Reality</td>
     <td><a href="https://www.haw-landshut.de/">Landshut UAS¹</a></td>
     <td>09.03.2022 (accessable 5 years later)</td>
     <td>Master Thesis</td>
