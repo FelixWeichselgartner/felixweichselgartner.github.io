@@ -23,6 +23,7 @@ title: Felix Weichselgartner
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
+  word-break: break-word;
 }
 
 #vitae td, #vitae th {
