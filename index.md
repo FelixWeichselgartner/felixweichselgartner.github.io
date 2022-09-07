@@ -147,17 +147,24 @@ Both my Bachelor and Master Thesis were graded with a 1.0 (best grade possible).
   <tr>
     <td>Automatisierte Koordinatensystemkalibrierung von Fahrerlosen Transportfahrzeugen mittels Bilderkennung <br> Translation: Automated coordinate system calibration of automated guided vehicles with computer vision</td>
     <td><a href="https://www.haw-landshut.de/">Landshut UAS¹</a></td>
-    <td>17.07.2020 (accessable 5 years later)</td>
+    <td>17.07.2020*</td>
     <td>Bachelor Thesis</td>
   </tr>
   <tr>
     <td>Visualisierung der Parameter von Fahrerlosen Transportsystemen mittels Mixed Reality <br> Translation: Visualization of the parameters of automated guided vehicle systems with Mixed Reality</td>
     <td><a href="https://www.haw-landshut.de/">Landshut UAS¹</a></td>
-    <td>09.03.2022 (accessable 5 years later)</td>
+    <td>09.03.2022*</td>
     <td>Master Thesis</td>
+  </tr>
+  <tr>
+    <td>Verfahren zum Kalibrieren von Koordinatensystemen in Flurförderzeugen</td>
+    <td><a href="https://register.dpma.de/DPMAregister/pat/register?AKZ=E221578883">Patentamt / patent office</a></td>
+    <td>07.09.2022</td>
+    <td>Patent application</td>
   </tr>
 </table>
 
+*: accessable 5 years later
 
 <br>
 
