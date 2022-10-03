@@ -157,8 +157,8 @@ Both my Bachelor and Master Thesis were graded with a 1.0 (best grade possible).
     <td>Master Thesis</td>
   </tr>
   <tr>
-    <td>Verfahren zum Kalibrieren von Koordinatensystemen in Flurförderzeugen <br> Translation: Method for calibrating the coordinate systems in industrial trucks</td>
-    <td><a href="https://register.dpma.de/DPMAregister/pat/register?AKZ=E221578883">Patentamt / patent office</a></td>
+    <td>Verfahren zum Kalibrieren von Koordinatensystemen in Flurförderzeugen <br> Method for calibrating the coordinate systems in industrial trucks</td>
+    <td><a href="https://register.dpma.de/DPMAregister/pat/register?AKZ=E221578883">Patentamt / </a><a href="https://patentcenter.uspto.gov/applications/17685204">US patent office</a> (<a href="https://patents.google.com/patent/US20220281726A1/en?oq=US20220281726A1">Google patents</a>)</td>
     <td>07.09.2022</td>
     <td>Patent application</td>
   </tr>
