@@ -46,7 +46,7 @@ title: Felix Weichselgartner
 
 ### Education
 
-I was able to finish Bachelor and Master in only 9 semesters (one semester faster than standard period of study), because I completed my 7th semester of the Bachelor and my 1st semester of the master simultaneously. 
+I was able to finish Bachelor and Master in only 9 semesters (one semester faster than standard period of study), because I completed my 7th semester of the Bachelor and my 1st semester of the Master simultaneously. 
 
 <table id="vitae">
   <tr>
